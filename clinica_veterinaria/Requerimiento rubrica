@@ -1,0 +1,23 @@
+Entorno: Carpeta del proyecto, entorno virtual venv activo y Django instalado.
+
+Proyecto: Proyecto clinica_veterinaria y aplicación mascotas creados correctamente.
+
+Configurar: Aplicación registrada e integrada en settings.py.
+
+Modelo y BD: Archivo models.py definido, carpeta migrations/ generada y base de datos db.sqlite3 migrada.
+
+Vistas: Archivo views.py creado con las funciones CRUD (lista_mascotas, crear_mascota, etc.).
+
+URLs: Mapeo de rutas completo en urls.py (tanto a nivel de proyecto como de la app mascotas).
+
+Templates: Carpeta de plantillas configurada (templates/mascotas) con los archivos HTML requeridos:
+
+base.html
+
+lista.html
+
+formulario.html
+
+confirmar_eliminar.html
+
+Admin: Archivo admin.py configurado y superusuario creado para la administración.
